@@ -1,6 +1,6 @@
 # Udacity Devops Engineer Nanodegree - Project 2
 
-This is an assignment for the **Udacity Devops Engineer Nanodegree** program.
+This is an assignment for the [Udacity Devops Engineer Nanodegree](https://eu.udacity.com/course/cloud-dev-ops-nanodegree--nd9991) program.
 
 The task was to deploy a high availability static website. The website should be hosted on servers within
 private subnets. All trafic to the servers should be routed through NAT gateways located in public subnets.
